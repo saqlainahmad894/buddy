@@ -113,6 +113,27 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
+
+## About the Developer
+
+Hi, I'm **Saqlain Ahmad**.
+
+I built **Buddy** as a personal passion project to create something calm, private, and genuinely helpful. I wanted an app that could support daily routines, encourage consistency in deen, and offer companionship without requiring accounts, subscriptions, or sacrificing privacy.
+
+Buddy is designed to work offline first, keeping your personal reflections and data on your own device while making everyday habits a little easier to maintain.
+
+If Buddy helps even one person stay more consistent with their prayers, reflect more often, or simply have a better day, then this project has fulfilled its purpose.
+
+Thank you for checking it out, and I hope Buddy becomes a small source of benefit in your daily life.
+
+---
+
+<p align="center">
+  Made with ❤️ using Flutter by <b>Saqlain Ahmad</b>
+</p>
+
 <p align="center">
   <b>Buddy</b> · Companion for your day & deen
 </p>
+
+
