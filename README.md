@@ -44,8 +44,8 @@ Your connection with Allah stays direct. Buddy only supports the routine.
 | <img src="docs/screenshots/10.jpeg" width="220" alt="Screenshot 10" /> | <img src="docs/screenshots/11.jpeg" width="220" alt="Screenshot 11" /> | <img src="docs/screenshots/12.jpeg" width="220" alt="Screenshot 12" /> |
 
 | 13 |
-| :---: | :---: | :---: |
-| <img src="docs/screenshots/13.jpeg" width="220" alt="Screenshot 13" /> |
+| :---: |
+| <img src="docs/screenshots/13.jpeg" width="220" alt="Screenshot 13" /> | 
 
 ---
 
