@@ -29,19 +29,23 @@ Your connection with Allah stays direct. Buddy only supports the routine.
 
 | 1 | 2 | 3 |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/screen-01.png" width="220" alt="Screenshot 1" /> | <img src="docs/screenshots/screen-02.png" width="220" alt="Screenshot 2" /> | <img src="docs/screenshots/screen-03.png" width="220" alt="Screenshot 3" /> |
+| <img src="docs/screenshots/1.jpeg" width="220" alt="Screenshot 1" /> | <img src="docs/screenshots/2.jpeg" width="220" alt="Screenshot 2" /> | <img src="docs/screenshots/3.jpeg" width="220" alt="Screenshot 3" /> |
 
 | 4 | 5 | 6 |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/screen-04.png" width="220" alt="Screenshot 4" /> | <img src="docs/screenshots/screen-05.png" width="220" alt="Screenshot 5" /> | <img src="docs/screenshots/screen-06.png" width="220" alt="Screenshot 6" /> |
+| <img src="docs/screenshots/4.jpeg" width="220" alt="Screenshot 4" /> | <img src="docs/screenshots/5.jpeg" width="220" alt="Screenshot 5" /> | <img src="docs/screenshots/6.jpeg" width="220" alt="Screenshot 6" /> |
 
 | 7 | 8 | 9 |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/screen-07.png" width="220" alt="Screenshot 7" /> | <img src="docs/screenshots/screen-08.png" width="220" alt="Screenshot 8" /> | <img src="docs/screenshots/screen-09.png" width="220" alt="Screenshot 9" /> |
+| <img src="docs/screenshots/7.jpeg" width="220" alt="Screenshot 7" /> | <img src="docs/screenshots/8.jpeg" width="220" alt="Screenshot 8" /> | <img src="docs/screenshots/9.jpeg" width="220" alt="Screenshot 9" /> |
 
 | 10 | 11 | 12 |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/screen-10.png" width="220" alt="Screenshot 10" /> | <img src="docs/screenshots/screen-11.png" width="220" alt="Screenshot 11" /> | <img src="docs/screenshots/screen-12.png" width="220" alt="Screenshot 12" /> |
+| <img src="docs/screenshots/10.jpeg" width="220" alt="Screenshot 10" /> | <img src="docs/screenshots/11.jpeg" width="220" alt="Screenshot 11" /> | <img src="docs/screenshots/12.jpeg" width="220" alt="Screenshot 12" /> |
+
+| 13 |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/13.jpeg" width="220" alt="Screenshot 13" /> |
 
 ---
 
@@ -93,22 +97,7 @@ dart run flutter_native_splash:create
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file.
-
-That means others **can use, copy, and modify** Buddy, as long as they **keep your copyright notice** (they can’t strip credit from the license / attribution). They cannot claim there was no license or remove your name from the MIT notice that must stay with the code.
-
-### How this was set up (for you / future repos)
-
-1. Create a file named `LICENSE` in the repo root (GitHub recognizes this name).
-2. Paste an MIT (or other) license text with your copyright year + name.
-3. On GitHub: **Repo → About (gear) → License** will usually auto-detect MIT after you push `LICENSE`.
-4. Or: **Add file → Create new file →** type `LICENSE` → GitHub’s license picker → choose **MIT** → commit.
-
-To show the license badge on the README (optional):
-
-```md
-[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
-```
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
