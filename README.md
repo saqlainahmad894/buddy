@@ -25,6 +25,18 @@ Your connection with Allah stays direct. Buddy only supports the routine.
 
 ---
 
+## Download
+
+Install the latest Android APK (no Play Store needed):
+
+**[Download Buddy APK (v1.0.0)](https://github.com/saqlainahmad894/buddy/raw/main/download/buddy-1.0.0.apk)**
+
+Or from this repo: [`download/buddy-1.0.0.apk`](download/buddy-1.0.0.apk)
+
+> On Android you may need to allow **Install unknown apps** for your browser/file manager.
+
+---
+
 ## Screenshots
 
 | 1 | 2 | 3 |
